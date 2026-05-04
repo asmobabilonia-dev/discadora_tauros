@@ -4,6 +4,10 @@
 
 O pacote de instalacao da VPS Asterisk fica em [`asterisk/`](asterisk/).
 
+Guia completo ilustrado:
+
+- [`asterisk/GUIA_INSTALACAO_COMPLETO.md`](asterisk/GUIA_INSTALACAO_COMPLETO.md)
+
 Instalacao rapida em uma VPS Ubuntu/Debian:
 
 ```bash

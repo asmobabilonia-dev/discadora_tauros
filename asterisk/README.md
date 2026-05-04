@@ -26,6 +26,10 @@ nano tauros.env
 sudo bash install_asterisk_tauros.sh tauros.env
 ```
 
+Para o passo a passo detalhado, leia:
+
+- [GUIA_INSTALACAO_COMPLETO.md](GUIA_INSTALACAO_COMPLETO.md)
+
 Depois de instalar:
 
 1. Entre no painel Tauros.
@@ -63,4 +67,3 @@ O painel cria/sobrescreve estes arquivos separados:
 - Restrinja AMI ao IP do painel.
 - Use senha forte em `AMI_SECRET`, `MAGNUS_SECRET` e TURN.
 - Mantenha `allow_guest=no` no PJSIP.
-
